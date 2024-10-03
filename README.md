@@ -15,5 +15,5 @@
 
 ## 🔗 Know more about me 
 
-[![Mail](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)](mailto:nimavatyuvraj7)
+[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:nimavatyuvraj7@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/feed/)
