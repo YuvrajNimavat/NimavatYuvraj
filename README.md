@@ -9,7 +9,10 @@
 
 
 ### 📊 Github Stats
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=patilshreyas&count_private=true&show_icons=true&include_all_commits=true" alt=" Yuvraj Nimavat | Stats" />
+  
+![](https://github-readme-stats.vercel.app/api?username=NimavatYuvraj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NimavatYuvraj&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NimavatYuvraj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
