@@ -3,8 +3,7 @@
 ### 🎍 Welcome to my hub 👨‍💻
 
 - 👦 @Android Developer Expert 
-- 💼 Sr. Android Engineer
-- 👨‍💻 I develop Mobile, Web apps and Backend server.
+- 👨‍💻 I develop Mobile, Web apps 
 - Loves 🎵 and 🎹.
 
 
