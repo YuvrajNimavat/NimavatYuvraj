@@ -10,8 +10,7 @@
 
 ### 📊 Github Stats
   
-![](https://github-readme-stats.vercel.app/api?username=NimavatYuvraj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NimavatYuvraj&count_private=true&show_icons=true&include_all_commits=true" alt="Shreyas Patil | Stats" />
 ---
 
 ## 🔗 Know more about me 
